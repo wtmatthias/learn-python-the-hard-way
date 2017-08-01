@@ -1,4 +1,4 @@
-#ex010.py
+# ex010.py
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."
@@ -10,10 +10,9 @@ I'll do a list:
 \t* Fishies
 \t* Catnip\n\t* Grass
 """
-print tabby_cat
-print persian_cat
-print backslash_cat
-print fat_cat
+print(tabby_cat)
+print(persian_cat)
+print(backslash_cat)
+print(fat_cat)
 
-name = "Billy"
-print "Hello my name is %s" % name
+# combining escape sequences and format strings:

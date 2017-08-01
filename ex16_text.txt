@@ -1,0 +1,3 @@
+I truncated the previous text of the file.
+I am now writing new lines of text.
+Here is the new text file.
