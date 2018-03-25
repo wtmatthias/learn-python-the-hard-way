@@ -1,0 +1,20 @@
+# ex22.py
+
+## Review of Terms
+
+`end=' '`
+- put in print statement at the end of `print()` line to add a space between strings in `print()`. e.g.:
+
+      print(word1 + word2 + word3, end=' ')
+      print(word4 + word5)
+
+- the comma *must* proceed 'word3' if you want the printed string on the same line when printed
+
+
+`{}`
+- allows you to call a variable within a string (i.e. `print()` function)
+- this type of string is called a *format string*
+
+
+`\n`
+- when printed w/ a string it tells Python to stop parsing on one line and to continue/restart parsing the string on the next line
